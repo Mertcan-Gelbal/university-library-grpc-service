@@ -19,7 +19,7 @@ This project is a microservice application developed using Protocol Buffers and 
 │   │       └── loan_service.go
 │   └── client/
 │       └── main.go         # gRPC client application
-└── DELIVERY.md             # Assignment delivery report
+└── gRPC_Delivery.md        # Assignment delivery report
 ```
 
 ## Features
